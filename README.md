@@ -1,5 +1,10 @@
 # Frontend Development
 
++ Capo Notes
+
+[GreenSock - Professional-grade JavaScript animation for the modern web](https://greensock.com/)
+
+
 + Guides
     + [Hack Design](http://hackdesign.org/courses/)
     + [Designer School](http://designer-school.com/)
