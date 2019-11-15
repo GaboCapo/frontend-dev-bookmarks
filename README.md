@@ -6,8 +6,7 @@
     + JavaScript lightbox library for presenting various types of media. [https://fancyapps.com/](fancyapps.com/)
     + ASP.NET Free. Cross-platform. Open source.
 A framework for building web apps and services with .NET and C#.[microsoft.com/apps/aspnet](microsoft.com/apps/aspnet)
-    + A cross-browser library of CSS animations. As easy to use as an easy thing. [http://daneden.github.io/animate.css]
-    (http://daneden.github.io/animate.css)
+    + A cross-browser library of CSS animations. As easy to use as an easy thing. [http://daneden.github.io/animate.css](http://daneden.github.io/animate.css)
     + []()
   
 
