@@ -7,7 +7,7 @@
     + ASP.NET
 Free. Cross-platform. Open source.
 A framework for building web apps and services with .NET and C#.(https://dotnet.microsoft.com/apps/aspnet)[microsoft.com/apps/aspnet]
-    + ()[]
+    + A cross-browser library of CSS animations. As easy to use as an easy thing. (daneden.github.io/animate.css)[http://daneden.github.io/animate.css]
     + ()[]
     + ()[]
     + ()[]
