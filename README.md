@@ -3,11 +3,10 @@
 + Capo Notes
     + Simple HTML5 Charts using the <canvas> tag [chartjs.org/](https://www.chartjs.org/)
     + GreenSock - Professional-grade JavaScript animation for the modern web [greensock.com/](https://greensock.com/)
-    + JavaScript lightbox library for presenting various types of media. (fancyapps.com/)[https://fancyapps.com/]
-    + ASP.NET
-Free. Cross-platform. Open source.
-A framework for building web apps and services with .NET and C#.(https://dotnet.microsoft.com/apps/aspnet)[microsoft.com/apps/aspnet]
-    + A cross-browser library of CSS animations. As easy to use as an easy thing. (daneden.github.io/animate.css)[http://daneden.github.io/animate.css]
+    + JavaScript lightbox library for presenting various types of media. [https://fancyapps.com/]
+    + ASP.NET Free. Cross-platform. Open source.
+A framework for building web apps and services with .NET and C#.[microsoft.com/apps/aspnet]
+    + A cross-browser library of CSS animations. As easy to use as an easy thing. [http://daneden.github.io/animate.css]
     + ()[]
     + ()[]
     + ()[]
