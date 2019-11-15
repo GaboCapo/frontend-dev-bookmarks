@@ -1,9 +1,8 @@
 # Frontend Development
 
 + Capo Notes
-
-[Simple HTML5 Charts using the <canvas> tag] (https://www.chartjs.org/)
-[GreenSock - Professional-grade JavaScript animation for the modern web](https://greensock.com/)
+    + [Simple HTML5 Charts using the <canvas> tag] (https://www.chartjs.org/)
+    + [GreenSock - Professional-grade JavaScript animation for the modern web](https://greensock.com/)
 
 
 + Guides
